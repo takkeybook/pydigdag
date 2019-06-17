@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+pydigdag/__init__.py
+pydigdag.egg-info/PKG-INFO
+pydigdag.egg-info/SOURCES.txt
+pydigdag.egg-info/dependency_links.txt
+pydigdag.egg-info/entry_points.txt
+pydigdag.egg-info/not-zip-safe
+pydigdag.egg-info/top_level.txt

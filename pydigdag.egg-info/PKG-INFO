@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: pydigdag
+Version: 0.0.2
+Summary: module for a task script executed on digdag server
+Home-page: UNKNOWN
+Author: Takashi Kagimoto
+Author-email: takashi.kagimoto@drecom.co.jp
+License: GNU General Public License
+Description: UNKNOWN
+Keywords: digdag TreasureData MySQL
+Platform: UNKNOWN
